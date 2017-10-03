@@ -27,3 +27,5 @@ markdown: kramdown
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+
+theme: jekyll-theme-minimal
